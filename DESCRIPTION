@@ -1,0 +1,13 @@
+Package: cpreport
+Title: Make statistcal reports in spanish based on pepa package
+Version: 0.0.1
+Authors@R: person("Omar", "Benites", email = "obacc07@gmail.com", role = c("aut", "cre"))
+Description: Statistical reports written plain spanish for agricultural research and 
+             development of products for industry purposes.
+Depends:
+    R (>= 3.4.3)
+Imports:
+    rmarkdown
+License: MIT
+LazyData: true
+RoxygenNote: 5.0.1
